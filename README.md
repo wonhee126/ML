@@ -47,4 +47,4 @@ Jupyter Notebook, tldraw(schematic tool)
 
 📊 **Techniques**  
 
-- 
+- Data Preprocessing (Label Encoding, One-Hot Encoding, Standardization, Normalization), Model Selection(Classification, Regression), Model Training, Model Prediction, Model Evaluation
