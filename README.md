@@ -15,7 +15,9 @@ This repository contains practical exercises and mini-projects related to machin
 
 - **ML Day2**: Overview of the `Machine Learning` workflow.
 
-  ![스크린샷 2025-05-08 171322](C:\Users\juwonhee\OneDrive\사진\스크린샷\스크린샷 2025-05-08 171322.png)
+  ![스크린샷 2025-05-08 171322](images/ML도식화.png)
+
+  
 
 - **ML Day3**: `Supervised learning` (classification), cross-validation, and evaluation with hands-on modeling.
 
