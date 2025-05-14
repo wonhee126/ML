@@ -11,15 +11,21 @@ This repository contains practical exercises and mini-projects related to machin
 ​	📂**ML Practice/**  
 ​		Exercises focused on machine learning techniques.  
 
-- **ML Day1**: `Data Visualization` using the Titanic dataset.
+- **ML_Day1**: `Data Visualization` using the Titanic dataset.
 
-- **ML Day2**: Overview of the `Machine Learning` workflow.
+- **ML_Day2**: Overview of the `Machine Learning` workflow.
 
-  ![machine learning schematic](images/ML_schematic.png)
+  ![machine learning schematic](images/ML_Roadmap.png)
 
   
 
-- **ML Day3**: `Supervised learning` (classification), cross-validation, and evaluation with hands-on modeling.
+- **ML_Day3**: `Supervised learning` (classification), cross-validation, and evaluation with hands-on modeling.
+
+  ![machine learning schematic](images/ML_Classification_Roadmap.png)
+
+
+
+- **ML Day4**: 
 
 ​	📁 **ML Project/**  
 ​		Projects that apply machine learning techniques to real-world datasets.  
