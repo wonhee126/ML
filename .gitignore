@@ -6,3 +6,6 @@
 
 # Jupyter Notebook checkpoint 파일 무시
 .ipynb_checkpoints/
+
+# tif 파일 무시
+*.tif
