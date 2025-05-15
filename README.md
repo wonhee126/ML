@@ -25,26 +25,28 @@ This repository contains practical exercises and mini-projects related to machin
 
 
 
-- **ML Day4**: 
+- **ML Day4**: Trained and evaluated classification models on the `Kaggle Santander Customer Satisfaction` dataset to find the best-performing model.
+- **ML Day6**: `Supervised learning` (regression), linear, ridge, lasso and elastic net regression with hyperparameter tuning, ensemble models, and evaluation metrics.
+
+![ML_Regression_Roadmap](images\ML_Regression_Roadmap.png)
+
+- **ML Day7**: Trained and evaluated regression models on the `Kaggle Bike Sharing Demand` dataset to find the best-performing model.
+
+  ![ML_Day과정 정리](images/ML_Regression_project_Roadmap.png)
+
+  
 
 ​	📁 **ML Project/**  
 ​		Projects that apply machine learning techniques to real-world datasets.  
 
-- 
+- **Kaggle Credit Card Fraud Detection Project**(ML_Day5): Participated in Kaggle’s Credit Card Fraud Detection competition using `classification models.`
+- **Kaggle House Prices Project**(ML_Day8): Participated in Kaggle’s House Prices competition using `regression models.`
 
-  
 
-  
-
-### **📂**
 
 ---
 
-- 
 
-  
-
-  
 
 ## ✨ Skills Covered
 
@@ -53,4 +55,10 @@ Jupyter Notebook, tldraw(schematic tool)
 
 📊 **Techniques**  
 
-- Data Preprocessing (Label Encoding, One-Hot Encoding, Standardization, Normalization), Model Selection(Classification, Regression), Model Training, Model Prediction, Model Evaluation
+- **Data Preprocessing** (Label Encoding, One-Hot Encoding, Standardization, Normalization) 
+- **Model Selection** (Classification, Regression)
+- **Model Training** (decesion tree, randomforest, XGBoost, linear, ridge, lasso, elastic net, ensemble, hyper-parameter tuning(GridSearchCV, RandomizedSearchCV)
+- **Model Prediction** 
+- **Model Evaluation** (KFold, StratifiedKFold, accuracy_score, precision, recall, F1, ROC-AUC, MAE, MSE, RMSE, RMSLE, R² SCORE)
+
+![ML_Entire_Roadmap](images\ML_Entire_Roadmap.png)
