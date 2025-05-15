@@ -28,7 +28,7 @@ This repository contains practical exercises and mini-projects related to machin
 - **ML Day4**: Trained and evaluated classification models on the `Kaggle Santander Customer Satisfaction` dataset to find the best-performing model.
 - **ML Day6**: `Supervised learning` (regression), linear, ridge, lasso and elastic net regression with hyperparameter tuning, ensemble models, and evaluation metrics.
 
-![ML_Regression_Roadmap](images\ML_Regression_Roadmap.png)
+![ML_Regression_Roadmap](images/ML_Regression_Roadmap.png)
 
 - **ML Day7**: Trained and evaluated regression models on the `Kaggle Bike Sharing Demand` dataset to find the best-performing model.
 
@@ -61,4 +61,4 @@ Jupyter Notebook, tldraw(schematic tool)
 - **Model Prediction** 
 - **Model Evaluation** (KFold, StratifiedKFold, accuracy_score, precision, recall, F1, ROC-AUC, MAE, MSE, RMSE, RMSLE, R² SCORE)
 
-![ML_Entire_Roadmap](images\ML_Entire_Roadmap.png)
+![ML_Entire_Roadmap](images/ML_Entire_Roadmap.png)
