@@ -51,13 +51,13 @@ This repository contains practical exercises and mini-projects related to machin
 ## ✨ Skills Covered
 
 **🛠️ Tech Stack**  
-Jupyter Notebook, tldraw(schematic tool)
+Jupyter Notebook, tldraw(schematic tool), google colab
 
 📊 **Techniques**  
 
 - **Data Preprocessing** (Label Encoding, One-Hot Encoding, Standardization, Normalization) 
 - **Model Selection** (Classification, Regression)
-- **Model Training** (decesion tree, randomforest, XGBoost, linear, ridge, lasso, elastic net, ensemble, hyper-parameter tuning(GridSearchCV, RandomizedSearchCV)
+- **Model Training** (decesion tree, randomforest, XGBoost, linear, ridge, lasso, elastic net, ensemble, hyper-parameter tuning(GridSearchCV, RandomizedSearchCV, Stacking)
 - **Model Prediction** 
 - **Model Evaluation** (KFold, StratifiedKFold, accuracy_score, precision, recall, F1, ROC-AUC, MAE, MSE, RMSE, RMSLE, R² SCORE)
 
