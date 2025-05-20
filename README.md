@@ -62,10 +62,12 @@ Exercises focused on unsupervised learning in machine learning.
 ### 📂**ML**/NLP
 
 ---
+Exercises focused on NLP in machine learning.
 
 - **ML_Day10**: Performed sentiment analysis using `KoNLPy`, CountVectorizer, TfidfVectorizer, and Naver movie review API.
 
 
+---
 
 ## ✨ Skills Covered
 
