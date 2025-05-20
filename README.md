@@ -15,7 +15,7 @@ This repository contains practical exercises and mini-projects related to machin
 
 - **ML_Day2**: Overview of the `Machine Learning` workflow.
 
-  ![머신러닝 기초 과정](images/ML base roadmap.png)
+  ![머신러닝 기초 과정](images/ML_base_roadmap.png)
 
   
 
