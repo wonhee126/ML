@@ -4,35 +4,35 @@ This repository contains practical exercises and mini-projects related to machin
 
 ## 📂 Structure
 
-### 📂**ML**/
+### 📂**ML**/Supervised Learning
 
 ---
 
 ​	📂**ML Practice/**  
-​		Exercises focused on machine learning techniques.  
+​		Exercises focused on supervised learning in machine learning.
 
 - **ML_Day1**: `Data Visualization` using the Titanic dataset.
 
 - **ML_Day2**: Overview of the `Machine Learning` workflow.
 
-  ![machine learning schematic](images/ML_Roadmap.png)
+  ![머신러닝 기초 과정](images/ML base roadmap.png)
 
   
 
 - **ML_Day3**: `Supervised learning` (classification), cross-validation, and evaluation with hands-on modeling.
 
-  ![machine learning schematic](images/ML_Classification_Roadmap.png)
+  ![지도학습-분류 과정 정리](images/ML Classification Roadmap.png)
 
 
 
 - **ML Day4**: Trained and evaluated classification models on the `Kaggle Santander Customer Satisfaction` dataset to find the best-performing model.
 - **ML Day6**: `Supervised learning` (regression), linear, ridge, lasso and elastic net regression with hyperparameter tuning, ensemble models, and evaluation metrics.
 
-![ML_Regression_Roadmap](images/ML_Regression_Roadmap.png)
+![지도학습-회귀 과정 정리](images/ML Regression Roadmap.png)
 
 - **ML Day7**: Trained and evaluated regression models on the `Kaggle Bike Sharing Demand` dataset to find the best-performing model.
 
-  ![ML_Day과정 정리](images/ML_Regression_project_Roadmap.png)
+  ![프로젝트 과정 정리](images/ML_Regression_project_Roadmap.png)
 
   
 
@@ -44,7 +44,27 @@ This repository contains practical exercises and mini-projects related to machin
 
 
 
+![지도학습 머신러닝 과정 정리](images/Supervised Learning Entrie RoadMap.png)
+
+
+
+###  📂**ML**/Unsupervised Learning
+
 ---
+
+Exercises focused on unsupervised learning in machine learning.
+
+- **ML_Day9**: Dimensionality reduction (`PCA`), 2D/3D visualization, KMeans `clustering`, dendrograms.
+
+---
+
+
+
+### 📂**ML**/NLP
+
+---
+
+- **ML_Day10**: Performed sentiment analysis using `KoNLPy`, CountVectorizer, TfidfVectorizer, and Naver movie review API.
 
 
 
@@ -55,10 +75,13 @@ Jupyter Notebook, tldraw(schematic tool), google colab
 
 📊 **Techniques**  
 
-- **Data Preprocessing** (Label Encoding, One-Hot Encoding, Standardization, Normalization) 
-- **Model Selection** (Classification, Regression)
-- **Model Training** (decesion tree, randomforest, XGBoost, linear, ridge, lasso, elastic net, ensemble, hyper-parameter tuning(GridSearchCV, RandomizedSearchCV, Stacking)
+- **Data Preprocessing** Label Encoding, One-Hot Encoding, Standardization, Normalization, PCA, KoNLPy, CountVectorizer, TfidfVectorizer
+- **Model Selection** Classification, Regression, Clustering, KMeans, Mean Shift, DBSCAN, GMM
+- **Model Training** decesion tree, randomforest, XGBoost, linear, ridge, lasso, elastic net, ensemble, hyper-parameter tuning(GridSearchCV, RandomizedSearchCV, Stacking, fit_predict()
 - **Model Prediction** 
-- **Model Evaluation** (KFold, StratifiedKFold, accuracy_score, precision, recall, F1, ROC-AUC, MAE, MSE, RMSE, RMSLE, R² SCORE)
+- **Model Evaluation** KFold, StratifiedKFold, accuracy_score, precision, recall, F1, ROC-AUC, MAE, MSE, RMSE, RMSLE, R² SCORE, Dendrogram, Silhouette Score
 
-![ML_Entire_Roadmap](images/ML_Entire_Roadmap.png)
+![머신러닝 전체 과정 정리](images/ML Entire Roadmap.png)
+
+
+
