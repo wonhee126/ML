@@ -15,20 +15,20 @@ This repository contains practical exercises and mini-projects related to machin
 
 - **ML_Day2**: Overview of the `Machine Learning` workflow.
 
-  ![머신러닝 기초 과정](images/ML_base_roadmap.png)
+  ![머신러닝 기초 과정](images/ML_Base_RoadMap.png)
 
   
 
 - **ML_Day3**: `Supervised learning` (classification), cross-validation, and evaluation with hands-on modeling.
 
-  ![지도학습-분류 과정 정리](images/ML_Classification_Roadmap.png)
+  ![지도학습-분류 과정 정리](images/ML_Classification_RoadMap.png)
 
 
 
 - **ML Day4**: Trained and evaluated classification models on the `Kaggle Santander Customer Satisfaction` dataset to find the best-performing model.
 - **ML Day6**: `Supervised learning` (regression), linear, ridge, lasso and elastic net regression with hyperparameter tuning, ensemble models, and evaluation metrics.
 
-![지도학습-회귀 과정 정리](images/ML_Regression_Roadmap.png)
+![지도학습-회귀 과정 정리](images/ML_Regression_RoadMap.png)
 
 - **ML Day7**: Trained and evaluated regression models on the `Kaggle Bike Sharing Demand` dataset to find the best-performing model.
 
@@ -81,7 +81,7 @@ Jupyter Notebook, tldraw(schematic tool), google colab
 - **Model Prediction** 
 - **Model Evaluation** KFold, StratifiedKFold, accuracy_score, precision, recall, F1, ROC-AUC, MAE, MSE, RMSE, RMSLE, R² SCORE, Dendrogram, Silhouette Score
 
-![머신러닝 전체 과정 정리](images/ML_Entire_Roadmap.png)
+![머신러닝 전체 과정 정리](images/ML_Entire_RoadMap.png)
 
 
 
