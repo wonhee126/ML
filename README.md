@@ -67,6 +67,25 @@ Exercises focused on NLP in machine learning.
 - **ML_Day10**: Performed sentiment analysis using `KoNLPy`, CountVectorizer, TfidfVectorizer, and Naver movie review API.
 
 
+
+### 📂**ML**/Time Series
+
+---
+
+​	📂**TS Practice/** 
+
+​	modified
+
+- **TS Day1**: 
+- **TS Day2**: 
+
+
+
+​	📂**TS Project/** 
+
+​		modified  
+
+
 ---
 
 ## ✨ Skills Covered
