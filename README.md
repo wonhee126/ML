@@ -12,9 +12,9 @@ Exercises focused on NLP in machine learning.
 
 - **ML_Day10**: Performed sentiment analysis using `KoNLPy`, CountVectorizer, TfidfVectorizer, and Naver movie review API.
 
+  
 
-
-
+  
 
 ### 📂**ML**/Supervised Learning
 
@@ -29,13 +29,9 @@ Exercises focused on NLP in machine learning.
 
   ![머신러닝 기초 과정](images/ML_Base_RoadMap.png)
 
-  
-
 - **ML_Day3**: `Supervised learning` (classification), cross-validation, and evaluation with hands-on modeling.
 
   ![지도학습-분류 과정 정리](images/ML_Classification_RoadMap.png)
-
-
 
 - **ML Day4**: Trained and evaluated classification models on the `Kaggle Santander Customer Satisfaction` dataset to find the best-performing model.
 - **ML Day6**: `Supervised learning` (regression), linear, ridge, lasso and elastic net regression with hyperparameter tuning, ensemble models, and evaluation metrics.
@@ -58,7 +54,7 @@ Exercises focused on NLP in machine learning.
 
 ![지도학습 머신러닝 과정 정리](images/Supervised_Learning_Entire_RoadMap.png)
 
-
+  
 
 ### 📂**ML**/Time Series
 
@@ -82,7 +78,7 @@ Exercises focused on NLP in machine learning.
 
 - **TS_Day2_Practice and Project**: Combined TS Day2 and Time Series Mini Project (TS Day2).
 
-
+  
 
 ###  📂**ML**/Unsupervised Learning
 
@@ -92,9 +88,9 @@ Exercises focused on unsupervised learning in machine learning.
 
 - **ML_Day9**: Dimensionality reduction (`PCA`), 2D/3D visualization, KMeans `clustering`, dendrograms.
 
+  
 
-
-
+  
 
 
 ---
@@ -104,7 +100,7 @@ Exercises focused on unsupervised learning in machine learning.
 **🛠️ Tech Stack**  
 Jupyter Notebook, tldraw(schematic tool), google colab
 
-
+  
 
 📊 **Techniques - ML, NLP**  
 
@@ -128,7 +124,7 @@ Jupyter Notebook, tldraw(schematic tool), google colab
 
 ![머신러닝 전체 과정 정리](images/ML_Entire_RoadMap.png)
 
-
+  
 
 📊 **Techniques - Time Series**
 
