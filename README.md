@@ -143,7 +143,7 @@ Jupyter Notebook, tldraw(schematic tool), google colab
 - **Model Evaluation**
    Residual Diagnostics, Forecast Accuracy Testing
 
-
+![시계열 데이터 전체 과정 정리](images/Time_Seires_RoadMap.png)
 
 
 
