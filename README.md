@@ -78,6 +78,8 @@ Exercises focused on NLP in machine learning.
 
 - **TS_Day2_Practice and Project**: Combined TS Day2 and Time Series Mini Project (TS Day2).
 
+- **TS Day5 MainQuest**: Performed data labeling, feature engineering and PKFold to build a `predictive model`.
+
   
 
 ###  📂**ML**/Unsupervised Learning
@@ -128,20 +130,22 @@ Jupyter Notebook, tldraw(schematic tool), google colab
 
 📊 **Techniques - Time Series**
 
+- **Data Preparation**
+
+  Target Labeling, Feature Extraction / Engineering
+
 - **Stationarity Check**
    Moving Average, Moving Standard Deviation Visualization
-
 - **Non-Stationary to Stationary Transformation**
    Log Transformation (to stabilize variance), Differencing (to remove trend), Seasonal Differencing (to remove seasonality), Time Series Decomposition
-
 - **Statistical Testing**
    Dickey-Fuller Test
-
 - **ARIMA Parameter Selection**
    ACF (Autocorrelation Function), PACF (Partial Autocorrelation Function) → Determine p, d, q
-
+- **Model Training & Validation**
+   Applied time series-aware cross-validation (e.g., TimeSeriesSplit, PurgedKFold)
 - **Model Evaluation**
-   Residual Diagnostics, Forecast Accuracy Testing
+   Residual Diagnostics, Forecast Accuracy Testing, ROC-AUC
 
 ![시계열 데이터 전체 과정 정리](images/Time_Seires_RoadMap.png)
 
